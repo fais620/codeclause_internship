@@ -1,2 +1,2 @@
-# codeclause_internship
-In this internship i have made basic text editor
+# TextEditor
+Used HTML, CSS, JavaScript with Document Object Model
